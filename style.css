@@ -1,0 +1,41 @@
+body {
+    margin: 0;
+    padding: 0;
+}
+
+#box1 {
+    height: 100vh;
+    width: 100%;
+    background-image: url('https://coresites-cdn.factorymedia.com/twc/wp-content/uploads/2018/04/splash-puddle-mud-rain-water-mtb.jpg');
+    background-size: cover;
+    display: table;
+    background-attachment: fixed;
+}
+
+#box2 {
+    height: 100vh;
+    width: 100%;
+    background-image: url('http://www.irideafrica.com/wp-content/uploads/2014/01/cape-town-singletrack-tours.jpg');
+    background-size: cover;
+    display: table;
+    background-attachment: fixed;
+}
+
+#box3 {
+    height: 100vh;
+    width: 100%;
+    background-image: url('http://proridemtb.com/wp-content/uploads/2015/02/Confidence41215.jpg');
+    background-size: cover;
+    display: table;
+    background-attachment: fixed;
+}
+
+h1 {
+    font-family: arial black;
+    font-size: 5em;
+    color:white;
+    margin: 0;
+    text-align: center;
+    display: table-cell;
+    vertical-align: middle;
+}
